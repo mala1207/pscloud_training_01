@@ -1,3 +1,3 @@
 id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_odoo_mawp_traning_lesson,pscloud.training.lesson,odoo_mawp_traning.model_odoo_mawp_traning_lesson,base.group_user,1,1,1,1
-access_odoo_mawp_traning_subject,pscloud.training.subject,odoo_mawp_traning.model_odoo_mawp_traning_subject,base.group_user,,1,1,1
+access_odoo_mawp_traning_lesson,pscloud.training.lesson,odoo_mawp_traning.model_training_lesson,base.group_user,1,1,1,1
+access_odoo_mawp_traning_subject,pscloud.training.subject,odoo_mawp_traning.model_training_subject,base.group_user,,1,1,1
